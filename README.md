@@ -148,3 +148,6 @@ brew link gstreamer
 - GTK3 + GTK4 ObjC class conflict warnings at runtime are cosmetic and harmless.
 - To reconfigure, run `meson setup build --reconfigure` with the desired flags.
 - To rebuild after source changes: `ninja -C build && ninja -C build install`.
+
+- TODO: fully testing on txmini-2 but ffmpeg-dl with latest versions might be better
+- 
