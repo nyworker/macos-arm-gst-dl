@@ -1,4 +1,5 @@
 # GStreamer 1.28.0 from Source (macOS Apple Silicon)
+[ should check the swift build new version: https://github.com/nyworker/macos-arm-gst-decklink-ndi ] 
 
 Build of GStreamer with Rust plugins (gst-plugins-rs) and Decklink support.
 
